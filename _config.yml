@@ -5,6 +5,8 @@ description: &description "深圳大学金融科技专业本科生，关注量�
 url: "https://kongzikun.github.io" # 改成你的 GitHub Pages 地址
 baseurl: ""
 repository: "kongzikun/kongzikun.github.io"
+include:
+  - _pages
 
 # Site Author
 author:
